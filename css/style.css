@@ -17,7 +17,15 @@
     --corr-fonte-corpo: #555;
     --cor-fonte-corpo-leve: #777;
 }
-
+body{
+    font-family: "poppins", sans-serif;
+}
+.banner{
+    background: radial-gradient(var(--cor-fonte-corpo-leve));
+}
+.banner .linha{
+    margin-top: 70px;
+}
 
 
 
